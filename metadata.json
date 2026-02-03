@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI CV/Resume Generator",
+  "description": "A dynamic CV/Resume generator that allows users to input their information into various categories, add multiple entries for experience and education, and see a live preview of their professional document.",
+  "requestFramePermissions": []
+}
